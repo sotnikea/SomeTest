@@ -1,5 +1,4 @@
-#include <iostream>
-#include"new.cpp"
+#include"new.h"
 
 using namespace std;
 
